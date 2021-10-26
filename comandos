@@ -1,0 +1,2 @@
+Intalar o Laravel
+composer create-project --prefer-dist laravel/laravel chitasbar "6.*"
